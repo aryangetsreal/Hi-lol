@@ -11,5 +11,5 @@ elif(c == "subtract" or c == "-" or c == "Subtract"):
 elif(c == "divide" or c == "/" or c == "Divide"):
     print(a / b)
 
-elif(c== "Multiply" or c == "*" or c == "Multiply"):
+elif(c== "multiply" or c == "*" or c == "Multiply"):
     print(a * b)
